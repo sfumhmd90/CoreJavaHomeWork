@@ -21,8 +21,9 @@ public boolean vaccinated = true;
 		System.out.println(mee.age);
 		System.out.println(mee.myBankBalance);
 		System.out.println("my name is "+ mee.fullNameString + "\ni'm living in " + mee.myHome +"\ni have a yearly salary of "+mee.myYearlySalary);
-  String myName ="andy";
+  String myName ="andy"; // variable initiliazed
   System.out.println(myName);
+  
 	}
 
 }
