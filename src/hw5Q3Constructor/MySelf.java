@@ -16,6 +16,6 @@ public class MySelf {
     }
     
     public void EmpInfo () {
-    	System.out.println("\n my name is "+ name + "\n my age is "+ age + "\n my salary is"+ salary+"\n my bank balance is "+ BankBalance + "\n citizen status:"+ citizen);
+    	System.out.println("\n my name is "+ name + "\n my age is "+ age + "\n my salary is"+ salary+"\n my bank balance is "+ BankBalance + "\n citizen status:"+ citizen + "i love to code");
     }
 }
